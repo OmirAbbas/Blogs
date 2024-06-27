@@ -57,7 +57,7 @@ function Signup() {
             <button className="p-2 bg-primary text-center text-white mt-8 rounded-full shadow-lg">
               SIGN UP
             </button>
-            <Link to="login" className="font-semibold text-center mt-4">
+            <Link to="/login" className="font-semibold text-center mt-4">
               AlREADY HAVE AN ACCOUNT?
             </Link>
           </form>
