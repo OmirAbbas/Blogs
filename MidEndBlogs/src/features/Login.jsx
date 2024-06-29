@@ -41,8 +41,8 @@ function login() {
             <button className="p-2 bg-primary text-center text-white mt-8 rounded-full shadow-lg">
               LOG IN
             </button>
-            <Link to="/login" className="font-semibold text-center mt-4">
-              AlREADY HAVE AN ACCOUNT?
+            <Link to="/signup" className="font-semibold text-center mt-4">
+              YOU DON'T HAVE AN ACCOUNT? SIGN UP!
             </Link>
           </form>
         </section>
